@@ -1,0 +1,36 @@
+.div2 {
+    background-color: #F5F5F7;
+}
+
+.visionpro {
+    position: absolute;
+    bottom: -60px;
+    left: 35%;
+    /* margin-left: 130px; */
+}
+
+.p2nd {
+    text-align: center;
+    margin-top: -70px;
+}
+
+.d3rd {
+    margin-top: -20px;
+}
+
+.d4th {
+    background-color: #FAFAFA;
+}
+
+.d5th {
+    background-color: #F5F5F7;
+}
+
+.p5th {
+    color: #A9A9AA;
+    text-align: justify;
+}
+
+.a5th {
+    color: grey;
+}
